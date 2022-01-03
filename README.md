@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RithSh
+- 👀 I’m interested in code
+- 🌱 I’m currently learning GameDeveloping in Godot Engine
+- 📫 Yup, @JoshuaRith on twitter boys
+- danm son
